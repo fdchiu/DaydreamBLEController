@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/david/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/res/merged/debug/menu/gatt_services.xml",
+        "source": "/Users/david/Downloads/android-BluetoothLeGatt-master/Application/src/main/res/menu/gatt_services.xml"
+    },
+    {
+        "merged": "/Users/david/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/david/Downloads/android-BluetoothLeGatt-master/Application/src/main/res/menu/main.xml"
+    }
+]
